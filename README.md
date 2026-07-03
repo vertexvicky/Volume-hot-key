@@ -3,7 +3,7 @@
 ## 🚀 Installation Guide
 Click the button below to download and install the script automatically . Once it downloaded run that:
 
-[![Download](https://img.shields.io/badge/Download-Batch%20Installer-blue?style=for-the-badge)](https://github.com/vertexvignesh/VolumeHotKey-Windows/raw/main/install_volumehotkey.bat?raw=true)
+[![Download](https://img.shields.io/badge/Download-Batch%20Installer-blue?style=for-the-badge)](https://github.com/vertexvignesh/volume-hot-key/raw/main/install_volumehotkey.bat?raw=true)
 
 ---
 
