@@ -1,5 +1,12 @@
 # VolumeHotKey-Windows
 
+## 🚀 Installation Guide
+Click the button below to download and install the script automatically . Once it downloaded run that:
+
+[![Download](https://img.shields.io/badge/Download-Batch%20Installer-blue?style=for-the-badge)](https://github.com/vertexvignesh/VolumeHotKey-Windows/raw/main/install_volumehotkey.bat?raw=true)
+
+---
+
 ## 📌 Description
 VolumeHotKey-Windows is a simple tool that allows you to control your system volume using hotkeys. It is useful for PCs that do not have dedicated volume control keys.
 
@@ -12,12 +19,6 @@ This script runs in the background and listens for these key combinations to adj
 
 ---
 
-## 🚀 Installation Guide
-Click the button below to download and install the script automatically . Once it downloaded run that:
-
-[![Download](https://img.shields.io/badge/Download-Batch%20Installer-blue?style=for-the-badge)](https://github.com/vertexvignesh/VolumeHotKey-Windows/raw/main/install_volumehotkey.bat?raw=true)
-
----
 
 ## 🛠️ How It Works
 This project consists of a **Python script** that listens for global hotkeys using the `keyboard` module and sends system volume commands via the Windows API.
